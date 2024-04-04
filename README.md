@@ -18,7 +18,6 @@ React Router: Library for routing in React applications
 
 
 --Installation
-Clone the repository: git clone https://github.com/your_username/task-tracker.git
 Navigate to the project directory: cd task-tracker
 Install dependencies: npm install
 Start the development server: npm start
